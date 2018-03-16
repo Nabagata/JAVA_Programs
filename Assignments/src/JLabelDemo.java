@@ -6,7 +6,7 @@ public class JLabelDemo extends JApplet {
     try{
       SwingUtilities.invokeAndWait(
         new Runnable(){
-          public void run()
+          public void run()..
         }
       )
     }
